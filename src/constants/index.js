@@ -254,14 +254,14 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/ishaan_sharma_05/",
     imgPath: "/images/insta.png",
   },
-  {
-    name: "fb",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb.png",
-  },
+  // {
+  //   name: "fb",
+  //   url: "https://www.facebook.com/",
+  //   imgPath: "/images/fb.png",
+  // },
   {
     name: "x",
     url: "https://www.x.com/",
@@ -269,7 +269,7 @@ const socialImgs = [
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/",
+    url: "https://www.linkedin.com/in/ishaan-sharma-6062bb291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     imgPath: "/images/linkedin.png",
   },
 ];
