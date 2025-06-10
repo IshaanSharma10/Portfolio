@@ -48,14 +48,14 @@ const ShowcaseSection = () => {
           {/* left */}
           <div className="first-project-wrapper" ref={project1Ref}>
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde" />
+              <img src="/images/apple.png" alt="Apple" />
             </div>
             <div className="text-content">
               <h2>
-                On Demand Rides Made Simple with a Powerful, User-Friendly App Called Ryde
+                Focussing on Pixel-Perfect UI ,Closely Mimicking Apple's Design Asthetics.
               </h2>
               <p className="text-white-50 md:text-xl">
-                An App built with React Native, Expo, & TailwindCSS for a fast, user-friendly experience.
+                An App Built using React ,GSAP and ThreeJs with smooth Animations and 3D Visuals.
               </p>
             </div>
           </div>
@@ -70,9 +70,9 @@ const ShowcaseSection = () => {
 
             <div className="project" ref={project3Ref}>
               <div className="image-wrapper bg-[#ffe7db]">
-                <img src="/images/project3.png" alt="YC Directory" />
+                <img src="/images/CryptoPalace.png" alt="YC Directory" />
               </div>
-              <h2>YC Directory - StartUp Showcase App</h2>
+              <h2>CryptoPalace-Real time bitcoin price trend</h2>
             </div>
           </div>
         </div>
