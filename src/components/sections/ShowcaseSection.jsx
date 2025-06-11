@@ -48,7 +48,9 @@ const ShowcaseSection = () => {
           {/* left */}
           <div className="first-project-wrapper" ref={project1Ref}>
             <div className="image-wrapper">
+              <a target='blank' href="https://github.com/IshaanSharma10/Apple">
               <img src="/images/apple.png" alt="Apple" />
+              </a>
             </div>
             <div className="text-content">
               <h2>
@@ -63,14 +65,19 @@ const ShowcaseSection = () => {
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={project2Ref}>
               <div className="image-wrapper bg-[#ffefdb]">
-                <img src="/images/project2.png" alt="Library Management Platform" />
+                <a target='blank' href="https://github.com/IshaanSharma10">
+                <img src="/images/project2.png" alt="Library Management Platform"  />
+                </a>
               </div>
               <h2>Library Management System</h2>
+
             </div>
 
             <div className="project" ref={project3Ref}>
               <div className="image-wrapper bg-[#ffe7db]">
+                < a target='blank' href="https://cryptoplace-jet.vercel.app/">
                 <img src="/images/CryptoPalace.png" alt="YC Directory" />
+                </a>
               </div>
               <h2>CryptoPalace-Real time bitcoin price trend</h2>
             </div>

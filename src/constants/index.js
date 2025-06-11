@@ -264,7 +264,7 @@ const socialImgs = [
   // },
   {
     name: "x",
-    url: "https://www.x.com/",
+    url: "https://x.com/Ishaan_Sharma10",
     imgPath: "/images/x.png",
   },
   {
